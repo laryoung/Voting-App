@@ -35,7 +35,7 @@ fetch('http://localhost:5000/poll')
         ), {}
         );
 
-        //Canvas JS Implementation
+//Canvas JS Implementation
 let dataPoints = [
     { label: 'Windows', y:voteCounts.Windows},
     { label: 'MacOS', y:voteCounts.MacOS},
