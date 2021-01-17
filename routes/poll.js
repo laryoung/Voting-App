@@ -9,8 +9,8 @@ const Vote = require('../models/Vote');
 //Pusher configuration
 const pusher = new Pusher({
     appId: "1138493",
-    key: "f55b1a96cc02cb8911b3",
-    secret: "b279d6aae8dbf12b2881",
+    key: "",
+    secret: "",
     cluster: "ap2",
     useTLS: true
   });
